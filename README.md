@@ -1,1 +1,1 @@
-# practice_for_1st_trim
+One should first set up anaconda environment.
